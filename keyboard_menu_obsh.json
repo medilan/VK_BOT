@@ -1,0 +1,55 @@
+{
+"one_time": true,
+"buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "В какое пойти и какое лучше?"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Правила"
+                },
+                "color": "positive"
+            }
+        ],
+         [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Организации"
+                },
+                "color": "positive"
+            }
+        ],
+         [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Лайфхак"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Выход"
+                },
+                "color": "negative"
+            }
+        ]
+  ]
+}

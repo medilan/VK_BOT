@@ -1,0 +1,65 @@
+{
+"one_time": true,
+"buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}", 
+                    "label": "Общежитие"
+                },
+                "color": "positive"
+            }
+        ],
+  [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Стипендия"
+                },
+                "color": "positive"
+            }
+        ],
+  [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Организации-вуза"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Перевод с платного на бюджет"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Абитуриент"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Выход"
+                },
+                "color": "negative"
+            }
+        ]
+  ]
+}

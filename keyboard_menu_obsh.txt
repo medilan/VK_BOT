@@ -1,0 +1,36 @@
+{
+"one_time": true,
+"buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Мат-помощь"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Повышенная"
+                },
+                "color": "positive"
+            }
+        ],
+         
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Выход"
+                },
+                "color": "negative"
+            }
+        ]
+  ]
+}

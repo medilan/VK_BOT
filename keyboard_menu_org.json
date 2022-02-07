@@ -1,0 +1,55 @@
+{
+"one_time": true,
+"buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "ИК"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "СОК"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "СТУД-ОТРЯДЫ"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "НАШ ФОРМАТ"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Выход"
+                },
+                "color": "negative"
+            }
+        ]
+  ]
+}

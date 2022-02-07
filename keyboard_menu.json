@@ -1,0 +1,25 @@
+{
+"one_time": true,
+"buttons": [
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Вопросы"
+                },
+                "color": "positive"
+            }
+        ],
+        [
+            {
+                "action": {
+                    "type": "text",
+                    "payload": "{\"button\": \"1\"}",
+                    "label": "Расписание"
+                },
+                "color": "positive"
+            }
+        ]
+  ]
+}
